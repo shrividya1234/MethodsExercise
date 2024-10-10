@@ -13,6 +13,7 @@
             var animal = Console.ReadLine();
             Console.WriteLine("Favoriate Band?");
             var band = Console.ReadLine();
+            Console.WriteLine($"Name:{name} || Favorite Color : {color} || Favorite Animal : {animal} || Favorite Band : {band}" );
         }
     }
 }
